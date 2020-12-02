@@ -28,4 +28,12 @@
     <string name="beli">Beli</string>
     <string name="_735">$735</string>
     <string name="_6_photos">6 photos</string>
+    <string name="todo">TODO</string>
+    <string name="dummy_photos" />
+    <string name="dummy_value" />
+    <string name="stock" />
+    <string name="specification" />
+    <string name="seller" />
+    <string name="my_name" />
+    <string name="buy" />
 </resources>
